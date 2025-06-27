@@ -17,8 +17,8 @@
     "url": "https://github.com/urijMexa/ajs-node-test/issues"
   },
   "homepage": "https://github.com/urijMexa/ajs-node-test#readme",
-  "description": "",
   "dependencies": {
     "@urijmexa/ajs": "^1.0.0"
-  }
+  },
+  "description": ""
 }
